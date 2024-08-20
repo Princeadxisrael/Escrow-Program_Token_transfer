@@ -1,7 +1,7 @@
 
-# Onchain Vault Program 
+# Escrow program with Vault and Token transfers
 
-Within this project, we write programs for creating a vault, depositing, withdrawing and closing the vault using Anchor
+Within this project, we write an escrow programs that implements a vault, depositing, withdrawing and closing the vault, with token swap between maker and taker as well as refund functionality using Anchor
 
 
 ## Acknowledgements
